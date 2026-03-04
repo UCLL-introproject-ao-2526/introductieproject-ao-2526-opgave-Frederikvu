@@ -1,0 +1,32 @@
+Hallo Daan,
+
+Via deze weg wil ik graag mijn feedback geven over het introductieproject.
+
+De challenges waren zeer divers en uitdagend, maar tegelijk ook erg motiverend om aan te werken (de drang om die groene vinkjes te zien verschijnen). 
+De vrijheid om niet alle challenges te moeten oplossen vond ik een groot pluspunt. Het geeft ruimte om op je eigen tempo te werken en door te gaan met opdrachten die je op dat moment het meest aanspreken. 
+Tegelijk merkte ik dat die vrijheid ook een klein risico inhoudt: wanneer een oefening niet meteen lukt, is het verleidelijk om snel naar de volgende te gaan. Soms is het beter om toch nog even door te zoeken (of hulp te vragen).
+Misschien is het een goed idee om in de toekomst bijvoorbeeld 100 challenges aan te bieden waarvan 90% moet slagen.
+
+Bij sommige oefeningen liep ik tegen moeilijkheden aan, niet zozeer door de inhoud, maar door het correct formuleren van de antwoorden in de *solution.txt*-bestanden. Antwoorden waarvan ik dacht dat ze correct waren, werden soms toch afgekeurd. Dat was in het begin wat frustrerend, maar uiteindelijk ook leerrijk. Uit ons mailcontact bleek dat de test soms wat “te streng” reageert, wat veel verklaarde. 
+Misschien is het mogelijk om die strengheid een beetje te versoepelen, zodat correcte antwoorden met kleine variaties toch worden aanvaard.
+
+Het Blackjack‑project gaf me de kans om mijn kennis op een praktische en interactieve manier uit te breiden. De tutorial van LeMaster Tech was duidelijk en goed te volgen, ook voor een beginner zoals ik. Natuurlijk maakte ik hier en daar fouten en heb ik wel eens gevloekt wanneer iets niet werkte, maar door alles rustig na te kijken vond ik telkens de oplossing. Dat gaf me telkens een positieve boost. 
+Het voordeel van zo'n tutorial filmpje is dat je het zoveel als je wil kan bekijken, pauzeren en herbekijken, het nadeel is dat je aan het filmpje niets kan vragen als er iets fout loopt.  
+Het afronden van de tutorial voelde echt goed; het was bovendien de eerste keer dat ik een spelletje in Python schreef. Dit project mag, nee MOET, zeker in de opleiding blijven.
+
+Na de tutorial heb ik het spel verder uitgebreid met visuele verbeteringen, geluidseffecten en een extra (speciale) kaart. Hiervoor heb ik veel YouTube‑video’s bekeken en AI‑hulp gebruikt. Niet alles lukte meteen, het was vaak trial‑and‑error, net zoals in het echte (IT)leven zeker? Uiteindelijk bereikte ik een resultaat waar ik wel tevreden mee ben.
+
+Bij de opstart van het project botste ik op een probleem met de installatie van PyGame. Mijn Python‑versie (3.14.2) bleek te recent, waardoor PyGame niet correct functioneerde. Na het installeren van Python 3.12.10 werkte alles zoals het moest. Mogelijk komen andere studenten dit ook tegen.
+
+De video-/bronnenopdracht vond ik persoonlijk het minst interessante onderdeel. Het deed me wat denken aan een boekbespreking van vroeger. Ik begrijp wel waarom je deze opdracht toevoegt, maar de meeste gekozen video’s spraken me minder aan: ze waren vaak wat verouderd of wat minder interessant voor mezelf. Ik koos uiteindelijk voor "Programming is terrible — Lessons learned from a life wasted", omdat het luchtig gebracht is, al was de opnamekwaliteit niet ideaal.
+
+Over de communicatieopdrachten ben ik dan weer zeer positief. Dit aspect wordt in veel opleidingen snel over het hoofd gezien, terwijl het in IT net heel belangrijk is. Het verplichten om een mail te sturen wanneer je vastloopt, vond ik een goede zet. Hulp vragen is soms een grote stap, maar door dit te verplichten wordt die drempel lager. Complimenten trouwens voor je mailcommunicatie: duidelijk, vriendelijk en altijd snel. Ook het bijhouden van een logboek was nieuw voor mij, maar iets dat ik zeker ga blijven gebruiken.
+
+Over het algemeen vond ik het introductieproject zeer interessant en goed gestructureerd. De verschillende secties op de website (Aan de slag, Challenges, Checklist, Communicatie, FAQ, Software en Project) zijn duidelijk en overzichtelijk opgebouwd, wat mij goed geholpen heeft tijdens het uitvoeren van de opdrachten. De sporadische typfoutjes die er in staan, stoorden me niet.
+
+Mijn eindoordeel is dat het introductieproject aangenaam, gevarieerd en bijzonder leerrijk is. De combinatie van kleine challenges en een groter project werkt motiverend en zorgt voor een mooie balans.
+
+Dank je wel voor deze leuke en leerrijke OPO.
+
+Met vriendelijke groeten,  
+Frederik
